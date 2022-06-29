@@ -1,4 +1,4 @@
-# 😃 EDA_numerical_Happiness_report_2019
+# 😃 EDA_Happiness_report_2019
 This is an Exploratory Data Analysis (EDA) of numerical and categorical observations on more than 100 countries in 2019.
 
 The goal is to understand the correlation between a country labelled "Happy" and the factors linked to it.
